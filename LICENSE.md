@@ -1,0 +1,7 @@
+minimize.m, checkgrad.m (C) Copyright 1999 - 2006, Carl Edward Rasmussen
+
+Remaining files (C) Copyright 2016-2019, Michael R. Walker II
+
+Permission is granted for anyone to copy, use, or modify these programs and accompanying documents for purposes of research or education, provided this copyright notice is retained, and note is made of any changes that have been made.
+
+These programs and documents are distributed without any warranty, express or implied. As the programs were written for research purposes only, they have not been tested to the degree that would be advisable in any important application. All use of these programs is entirely at the user's own risk.
